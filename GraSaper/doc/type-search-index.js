@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"pl.jancichy","l":"Bomba"},{"p":"pl.jancichy","l":"Main"},{"p":"pl.jancichy","l":"Plansza"},{"p":"pl.jancichy","l":"Pola"},{"p":"pl.jancichy","l":"Puste"},{"p":"pl.jancichy","l":"Specjalne"},{"p":"pl.jancichy","l":"Znacznik"}];updateSearchResults();
